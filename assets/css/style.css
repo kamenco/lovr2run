@@ -73,10 +73,14 @@ nav {
 }
 /*main*/
 main {
-    background-color: lightblue;
     /*Makes main element to take any surplus space so it does not shrink*/
     flex: 1 0 auto;
     margin-top: 47px;
+}
+#hero {
+    height: 600px;
+    width: 100%;
+    background-color: lightgreen;
 }
 /*footer*/
 #social-networks {
