@@ -96,6 +96,32 @@ main {
 #cover-text > h2, #cover-text > h3 {
     color: #ffffff;
 }
+/*Creating the css for the text below the image*/
+#reasons {
+    width: 90%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#reasons h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 280%;
+}
+#benefits-physical>div,
+#benefits-mental>div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+#benefits p {
+    padding: 0 20px;
+}
+#benefits hr {
+    border-top: 1px solid #3a3a3a;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 /*footer*/
 #social-networks {
     text-align: center;
