@@ -202,7 +202,7 @@ main {
     background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
-    padding: 15px 10% 3% 10%;
+    padding: 15px 10% 7% 10%;
     flex-grow: 1;
 }
 #signup-form {
